@@ -2,10 +2,10 @@
 
 # Hey, I'm Harsh Jain 👋
 
-**CS Senior @ Arizona State University · Systems & Backend Engineer**
+**CS Senior @ University of Arizona · Systems & Backend Engineer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshitjain30032004)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:harshitjain30032004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-harshitjain/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:harshjain.cs.30@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Harsh7115)
 
 </div>
@@ -14,7 +14,7 @@
 
 ### About Me
 
-I'm a senior studying Computer Science with a focus on systems programming, backend infrastructure, and distributed systems. I enjoy working close to the metal — whether that's writing a shell interpreter in C, building a concurrent server from scratch, or designing a distributed key-value store.
+I'm a senior studying Computer Science with a focus on systems programming, backend infrastructure, and distributed systems. I enjoy working close to the metal, whether that's writing a shell interpreter in C, building a concurrent server from scratch, or designing a distributed key-value store.
 
 - 🔧 Currently building: **unix-shell** (a POSIX-compliant shell in C) and **go-distributed-kv** (Raft-based KV store)
 - 📖 Exploring: consensus algorithms, lock-free data structures, eBPF
