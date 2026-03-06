@@ -84,3 +84,11 @@ I'm a CS senior building at the intersection of AI systems and backend infrastru
 <div align="center">
 <sub>Always learning. Always building.</sub>
 </div>
+
+
+---
+
+### Daily Activity Log
+
+<!-- Daily upkeep: 2026-06-03 -->
+- 🗓️ **2026-06-03** — Daily activity upkeep: reviewing open PRs, updating documentation, and refining project structure.
