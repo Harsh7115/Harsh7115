@@ -76,7 +76,7 @@ I'm a CS senior building at the intersection of AI systems and backend infrastru
 |---------|-------------|-------|
 | [go-distributed-kv](https://github.com/Harsh7115/go-distributed-kv) | Fault-tolerant KV store with Raft consensus — leader election, log replication, snapshotting | Go |
 | [unix-shell](https://github.com/Harsh7115/unix-shell) | POSIX-compliant shell with pipelines, I/O redirection, job control, and signal handling | C |
-| [Budget-manager-App](https://github.com/Harsh7115/Budget-manager-App) | Full-stack finance app with budget tracking, D3.js charts, and savings leaderboard | Node.js · MongoDB |
+| [go-ratelimiter](https://github.com/Harsh7115/go-ratelimiter) | Thread-safe rate limiters in Go — token bucket, sliding window, and leaky bucket; zero dependencies | Go |
 | [Immersion-project](https://github.com/Harsh7115/Immersion-project) | RAG-based AI chatbot toolkit for the CanHeal Cancer oncology resource platform | Python |
 
 ---
@@ -90,5 +90,5 @@ I'm a CS senior building at the intersection of AI systems and backend infrastru
 
 ### Daily Activity Log
 
-<!-- Daily upkeep: 2026-06-03 -->
-- 🗓️ **2026-06-03** — Daily activity upkeep: reviewing open PRs, updating documentation, and refining project structure.
+<!-- Daily upkeep: 2026-03-16 -->
+- 🗓️ **2026-03-16** — Daily activity upkeep: reviewing open PRs, updating documentation, and refining project structure.
