@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Harsh Jain 👋
+# Harsh Jain
 
 **CS Senior @ University of Arizona · 3.85 GPA · Dean's List**
 
