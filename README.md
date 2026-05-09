@@ -62,9 +62,10 @@ I'm a CS senior building at the intersection of AI systems and backend infrastru
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Harsh7115&theme=github-dark-blue&hide_border=true)](https://github.com/Harsh7115)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harsh7115&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github)](https://github.com/Harsh7115)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh7115&layout=compact&theme=github_dark&hide_border=true&exclude_repo=Library-Management,Personal-Finance-Website,Budget-manager-App,Immersion-project&langs_count=8)](https://github.com/Harsh7115)
 
-[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harsh7115&theme=github_dark)](https://github.com/Harsh7115)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harsh7115&theme=github-compact&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=ffffff)](https://github.com/Harsh7115)
 
 </div>
 
