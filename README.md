@@ -61,9 +61,9 @@ I'm a CS senior building at the intersection of AI systems and backend infrastru
 ### GitHub Stats
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Harsh7115&theme=darkhub&no-bg=true&no-frame=true&column=6&margin-w=4)](https://github.com/Harsh7115)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Harsh7115&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harsh7115&theme=github_dark)](https://github.com/Harsh7115)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Harsh7115&theme=darkhub&no-bg=true&no-frame=true&column=6&margin-w=4)](https://github.com/Harsh7115)
 
 </div>
 ---
